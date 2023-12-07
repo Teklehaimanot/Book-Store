@@ -1,0 +1,7 @@
+# Node.js
+
+book-store-api/node_modules/
+
+# TypeScript
+
+book-store-api/dist/
